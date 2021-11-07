@@ -1,1 +1,1 @@
-# UTS_Datawerehouse_HanifArkhan_5B
+# Desain dari data warehouse yang saya buat ini terdiri dari 4 tabel, yang terdiri dari 1 tabel fakta dan 3 tabel dimensi. 1 tabel fakta atau fact_penjualan ini merupakan gabungan dari sk_orders, sk_payments, dan sk_products, selanjutnya ada 3 Tabel dimensi yang terdiri dari tabel dim_orders yang merupakan gabungan dari tabel customers dengan tabel orders, tabel dim_products merupakan gabungan dari tabel orderdetails dengan tabel products, yang terakhir adalah tabel dim_payments merupakan gabungan dari tabel payments dengan tabel customers.
